@@ -76,12 +76,12 @@ export default function Home() {
                 {
                   name: "Saroj Khanal",
                   role: "Lead Actor",
-                  image: "/saroj-khanal.png",
+                  image: "/saroj-khanal.jpg",
                 },
                 {
                   name: "Nita Dhungana",
                   role: "Lead Actress",
-                  image: "/nita-dhungana.png",
+                  image: "/nita-dhungana.jpg",
                 },
               ].map((person, index) => (
                 <div key={index} className="flex flex-col items-center group">
