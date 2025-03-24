@@ -24,10 +24,10 @@ export default function Home() {
           <p className="text-white/80 max-w-xl mx-auto mb-8 text-lg">
             A tale of love, duty, and the crossroads of life
           </p>
-          <Button className="group bg-[#b83a1b] hover:bg-[#c84a2b] text-white rounded-full px-8 py-6 flex items-center gap-2 transition-all duration-300 shadow-lg hover:shadow-xl">
+          {/* <Button className="group bg-[#b83a1b] hover:bg-[#c84a2b] text-white rounded-full px-8 py-6 flex items-center gap-2 transition-all duration-300 shadow-lg hover:shadow-xl">
             <Play className="w-5 h-5 transition-transform group-hover:scale-110" />
             <span className="font-medium">Watch Trailer</span>
-          </Button>
+          </Button> */}
         </div>
         <div className="absolute bottom-0 left-0 right-0 h-24 bg-gradient-to-t from-[#f8f5f0] to-transparent z-20"></div>
       </section>
