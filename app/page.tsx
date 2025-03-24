@@ -1,6 +1,6 @@
 import Image from "next/image"
-import { Play } from "lucide-react"
-import { Button } from "@/components/ui/button"
+// import { Play } from "lucide-react"
+// import { Button } from "@/components/ui/button"
 
 export default function Home() {
   return (
